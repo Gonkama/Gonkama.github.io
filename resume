@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="ISO-8859-1">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>Gonkama Johnson 2018 Resume
+    </title>
+  </head>
+  <body style="background:black;">
+    <br>
+    <br>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="pos-f-t">
+            <div class="collapse" id="navbarToggleExternalContent">
+              <div class="bg-dark p-4">
+                <h4 class="text-white">Gonkama Johnson
+                </h4>
+                <span class="text-muted">vpcasemanager@gmail.com
+                </span>
+                <div class="row">
+                  <div class="col-md-2">
+                  </div>
+                  <div class="col-md-8">
+                    <div id="accordion">
+                      <div class="card">
+                        <div class="card-header" id="headingOne">
+                          <h6 class="mb-0">
+                            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                              Skills
+                            </button>
+                          </h6>
+                        </div>
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                          <div class="card-body">Front end web development programming languages (HTML, JQuery).  Audio engineering with DAW interfaces. Facilitating and teaching workshops/programming. Operating knowledge of Office 365 applications including Word, Excel, and Powerpoint.
+                          </div>
+                        </div>
+                      </div>
+                      <div class="card">
+                        <div class="card-header" id="headingTwo">
+                          <h5 class="mb-0">
+                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                              Experience
+                            </button>
+                          </h5>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                          <div class="card-body">
+                            August  2015 - August  2016
+                            <br>
+                            Americorps VISTA, Science Museum of Minnesota/city of Saint Paul, Governor's Office - College and Career Access Coordinator
+                            The Saint Paul VISTA Museum Access Coordinator works to increase the Science Museum's capacity to successfully engage low-income families and families of color from Saint Paul in high quality informal science learning opportunities. 
+                            Strengthens internal communication and understanding of programming available to youth and develops and strengthens external relationships with families and organizations. 
+                            Write quarterly reports detailing progress of assignments.
+                            <br>
+                            <br>
+                            August  2011 - August  2014
+                            <br>
+                            Saint Paul Public Schools, Saint Paul, MN - Class 2 Special Ed. Teaching Assistant 
+                            Assist teachers with curriculum, self help activities, discipline, and general school programming. Assist in unloading school bus: escort students from bus to residence.
+                            Manage online database of student records.
+                            <br>
+                            <br>
+                            April 2012 - September 2012
+                            <br>
+                            Prairie Care Psychiatric, Maple Grove - Psychiatric Technician
+                            Assist in the observation, planning, interventions, and evaluation of care to the patients.
+                            Responsible for facilitating goals and activity group programming.
+                            Perform clerical duties in relation to patient file up keeping
+                            Oriented and educated in gender, cultural differences, and in age appropriate care
+                          </div>
+                        </div>
+                      </div>
+                      <div class="card">
+                        <div class="card-header" id="headingThree">
+                          <h5 class="mb-0">
+                            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                              Education
+                            </button>
+                          </h5>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                          <div class="card-body">
+                            May  2018 
+                            <br>
+                            Concordia University, Saint Paul - Bachelor of Arts (Psychology)
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-2">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <nav class="navbar navbar-dark bg-dark">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">
+                </span>
+                <span class="">Gonkama Johnson Resume
+                </span>
+              </button>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <br>
+      <br>
+    </div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
+    </script>
+  </body>
+</html>
